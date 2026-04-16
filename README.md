@@ -1,6 +1,6 @@
 # Hey, I'm Cameron 👋
 
-Computer Science student at **Hampton University** (Class of 2027) · 3x J.P. Morgan SWE Intern · ACM President
+Computer Science student at **Hampton University** (Class of 2027) · 3x J.P. Morgan SWE Intern
 
 I build full-stack applications with a focus on backend systems, cloud infrastructure, and developer tooling. I care about writing clean, well-tested code that actually ships.
 
