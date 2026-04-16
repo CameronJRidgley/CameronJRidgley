@@ -16,7 +16,7 @@ I build full-stack applications with a focus on backend systems, cloud infrastru
 
 ---
 
-## 💼 Experience Highlights
+##  Experience Highlights
 
 **J.P. Morgan Chase** — Software Developer Intern *(3 summers: 2022, 2024, 2025)*
 - Built a RAG-powered SpringBoot middleware on AWS ECS to consolidate JIRA/Confluence ticket data — reduced duplicate tickets by 10%
@@ -28,7 +28,7 @@ I build full-stack applications with a focus on backend systems, cloud infrastru
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 - 🥇 **1st Place** — Leidos Pirate Quest HackTheBox 2024
 - 📚 **Google Tech Exchange Scholar** — Spring 2025
@@ -37,11 +37,7 @@ I build full-stack applications with a focus on backend systems, cloud infrastru
 
 ---
 
-## 📌 Featured Projects
 
-> *(Pin your best repos — ideally 1–2 projects that show a full stack: a backend API + a frontend, or a CLI tool with good docs)*
-
----
 
 ## 📫 Let's Connect
 
