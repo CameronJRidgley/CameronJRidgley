@@ -53,5 +53,5 @@ I build full-stack applications with a focus on backend systems, cloud infrastru
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cameron%20Ridgley-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cameron%20Ridgley-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/cameronridgleyj)
 [![Email](https://img.shields.io/badge/Email-cameronridgley922%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cameronridgley922@gmail.com)
