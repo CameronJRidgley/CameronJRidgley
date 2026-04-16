@@ -42,16 +42,17 @@ I build full-stack applications with a focus on backend systems, cloud infrastru
 
 ##  Highlights
 
-- 🥇 **1st Place** — Leidos Pirate Quest HackTheBox 2024
-- 📚 **Google Tech Exchange Scholar** — Spring 2025
-- 💡 **CodePath Tech Fellow** — Fall 2025
-- 🎓 Hampton University Merit Scholarship Recipient
+-  **1st Place** — Leidos Pirate Quest HackTheBox 2024
+-  **7th Place** — BESMART Hackathon 2025
+-  **Google Tech Exchange Scholar** — Spring 2025
+-  **CodePath Tech Fellow** — Fall 2025
+-  Hampton University Merit Scholarship Recipient
 
 ---
 
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cameron%20Ridgley-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/cameronridgleyj)
 [![Email](https://img.shields.io/badge/Email-cameronridgley922%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cameronridgley922@gmail.com)
