@@ -1,4 +1,4 @@
-# Hey, I'm Cameron 👋
+# Hey, I'm Cameron 
 
 Computer Science student at **Hampton University** (Class of 2027) · 3x J.P. Morgan SWE Intern
 
